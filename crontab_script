@@ -1,0 +1,4 @@
+# m h  dom mon dow   command
+#*/1 * * * *  /home/user/.local/bin/spark-submit --driver--class-path /usr/lib/jvm/java-11-openjdk-amd64/lib/postgresql-42.6.0.jar /home/user/Documents/Fusemachines/Spark_FInal_Projetc/final_Spark_Project.py 
+
+
